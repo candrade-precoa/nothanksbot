@@ -220,7 +220,7 @@ export default class implements Bot {
 
 
 
-    if (my_score>1 && (_tokens-_card<2)){
+    if (my_score>1 && ((_card-_tokens)<2)){
 
     	return true;
 

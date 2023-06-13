@@ -1,8 +1,8 @@
-import { Bot } from "../noThanks/Types.d.ts";
+import { Bot } from "https://gitlab.com/bquinn_precoa/no-thanks/-/raw/main/noThanks/Types.d.ts";
 
-import { PlayerState } from "../noThanks/Types.d.ts";
+import { PlayerState } from "https://gitlab.com/bquinn_precoa/no-thanks/-/raw/main/noThanks/Types.d.ts";
 
-import { ScoreCards, ScorePlayer } from "../noThanks/Utilities.ts";
+import { ScoreCards, ScorePlayer } from "https://gitlab.com/bquinn_precoa/no-thanks/-/blob/main/noThanks/Utilities.ts";
 
 
 

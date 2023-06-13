@@ -2,7 +2,7 @@ import { Bot } from "https://gitlab.com/bquinn_precoa/no-thanks/-/raw/main/noTha
 
 import { PlayerState } from "https://gitlab.com/bquinn_precoa/no-thanks/-/raw/main/noThanks/Types.d.ts";
 
-import { ScoreCards, ScorePlayer } from "https://gitlab.com/bquinn_precoa/no-thanks/-/blob/main/noThanks/Utilities.ts";
+import { ScoreCards, ScorePlayer } from "https://gitlab.com/bquinn_precoa/no-thanks/-/raw/main/noThanks/Utilities.ts";
 
 
 
